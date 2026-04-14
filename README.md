@@ -250,6 +250,4 @@ python training/evaluate.py --checkpoint_dir ./checkpoints
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 > FinVoc2Vec (`waiv/FinVoc2Vec`) is available under CC-BY-NC-4.0. Non-commercial use only.
