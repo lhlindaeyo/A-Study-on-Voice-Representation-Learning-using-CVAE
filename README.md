@@ -234,20 +234,6 @@ python training/evaluate.py --checkpoint_dir ./checkpoints
 | Python | 3.8+ |
 | Key libraries | librosa, openSMILE, pyannote 3.1, Whisper, transformers |
 
----
-
-## Citation
-
-If you use this code or find this work helpful, please cite:
-
-```bibtex
-@misc{haklim2025cvae_earnings,
-  title   = {A Study on Voice Representation Learning using CVAE for Earnings Call Analysis},
-  author  = {Haklim},
-  year    = {2025},
-  url     = {https://github.com/lhlindaeyo/A-Study-on-Voice-Representation-Learning-using-CVAE}
-}
-```
 
 ---
 
